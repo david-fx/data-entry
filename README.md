@@ -9,7 +9,7 @@ PROJECT ONE : PDF (captured image) to Excel Conversion
 
 Before : source.pdf        After : result.xlsx
 
-
+--
 
 PROJECT TWO : HR Data Cleaning & Preparation
 
